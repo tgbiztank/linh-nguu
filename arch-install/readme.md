@@ -97,7 +97,7 @@
   "nvim /etc/hosts"
     127.0.0.1    localhost.localdomain   localhost
     ::1          localhost.localdomain   localhost
-    127.0.0.1    linh_ngu.localdomain    linh_ngu
+    127.0.1.1    linh_ngu.localdomain    linh_ngu
   ```
 - Create new users for linh_ngu and set up the root user.
   ```
